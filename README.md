@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=32&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Heshan+Fernando;RUSL+Faculty of Compter Science)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=32&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Heshan+Fernando;RUSL+Faculty+of+Compter+Science)](https://git.io/typing-svg)
 
 💬 Ask me about **JavaScript, ReactJS, HTML&CSS, Bootstrap , C, C++ , nodeJS, SQL**
 ##
